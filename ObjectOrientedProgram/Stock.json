@@ -1,0 +1,19 @@
+{
+  "StockReport": [
+    {
+      "stockName": "Infosys",
+      "numberOfShare": 10,
+      "sharePrice": 500
+    },
+    {
+      "stockName": "Zomato",
+      "numberOfShare": 20,
+      "SharePrice": 800
+    },
+    {
+      "stockName": "ITC",
+      "numberOfShare": 50,
+      "sharePrice": 2000
+    }
+  ]
+}
